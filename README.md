@@ -2,7 +2,8 @@
 
 Test Heroku deployment:
 
-https://tcu93-bookmark-server.herokuapp.com/
-https://dashboard.heroku.com/apps/tcu93-bookmark-server/logs
+https://chrisg-test-message-board.herokuapp.com/
+
+https://dashboard.heroku.com/apps/chrisg-test-message-board/logs
 
 Source code: C:\heroku\chrisg-test-message-board\
